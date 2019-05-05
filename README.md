@@ -4,7 +4,7 @@ A simple Farmware example that tells FarmBot to log a new message including the 
 ## Install
 [Farmware page](https://my.farm.bot/app/farmware) install URL:
 ```
-https://raw.githubusercontent.com/IntelBotFarmer/GetOVOFarmBotWeather\hello-farmware-input/master/manifest.json
+https://raw.githubusercontent.com/IntelBotFarmer/GetOVOFarmBotWeather/master/manifest.json
 ```
 
 ## Use
